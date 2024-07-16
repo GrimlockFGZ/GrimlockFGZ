@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrimlockFGZ
 - 👀 I’m interested in Indie Games and Mods
-- 🌱 I’m currently learning Unity 
+- 🌱 I’m currently learning ASP.NET, Unity Engine, Unreal Engine
 - 💞️ I’m looking to collaborate on anything I can help you with
 - 📫 How to reach me: Discord: GrimlockFGZ#3064
 
